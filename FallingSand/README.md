@@ -5,3 +5,7 @@ Legend
 ---
 PINK - Water
 ORANGE - Sand
+
+Demo
+---
+![](./demo.gif)
