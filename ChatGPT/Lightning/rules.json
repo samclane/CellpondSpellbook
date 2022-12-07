@@ -1,0 +1,655 @@
+[
+    {
+        "width": 207.97434948471087,
+        "height": 80,
+        "x": 20,
+        "y": 70,
+        "rightTriangle": true,
+        "cellAtoms": [
+            {
+                "isLeftSlot": true,
+                "x": 20,
+                "y": 20,
+                "slotted": {
+                    "channels": [
+                        {
+                            "values": [
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                true
+                            ],
+                            "channel": 0
+                        },
+                        {
+                            "values": [
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                true
+                            ],
+                            "channel": 1
+                        },
+                        {
+                            "values": [
+                                true,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false
+                            ],
+                            "channel": 2
+                        }
+                    ],
+                    "joins": []
+                }
+            }
+        ],
+        "expanded": true,
+        "pinhole": true,
+        "hasSymmetry": false,
+        "chance": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "width": 207.97434948471087,
+        "height": 80,
+        "x": 20,
+        "y": 170,
+        "rightTriangle": true,
+        "cellAtoms": [
+            {
+                "value": {
+                    "channels": [
+                        {
+                            "values": [
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                true
+                            ],
+                            "channel": 0
+                        },
+                        {
+                            "values": [
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                true
+                            ],
+                            "channel": 1
+                        },
+                        {
+                            "values": [
+                                true,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false
+                            ],
+                            "channel": 2
+                        }
+                    ],
+                    "joins": []
+                },
+                "x": 20,
+                "y": 20,
+                "slotted": {
+                    "channels": [
+                        {
+                            "values": [
+                                true,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false
+                            ],
+                            "channel": 0
+                        },
+                        {
+                            "values": [
+                                true,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false
+                            ],
+                            "channel": 1
+                        },
+                        {
+                            "values": [
+                                true,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false
+                            ],
+                            "channel": 2
+                        }
+                    ],
+                    "joins": []
+                }
+            }
+        ],
+        "expanded": true,
+        "pinhole": true,
+        "chance": [
+            true,
+            true,
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "width": 367.97434948471084,
+        "height": 160,
+        "x": 20,
+        "y": 270,
+        "rightTriangle": true,
+        "cellAtoms": [
+            {
+                "value": {
+                    "channels": [
+                        {
+                            "values": [
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                true
+                            ],
+                            "channel": 0
+                        },
+                        {
+                            "values": [
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                true
+                            ],
+                            "channel": 1
+                        },
+                        {
+                            "values": [
+                                true,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false
+                            ],
+                            "channel": 2
+                        }
+                    ],
+                    "joins": []
+                },
+                "x": 100,
+                "y": 60
+            },
+            {
+                "isLeftSlot": true,
+                "x": 60,
+                "y": 60,
+                "slotted": {
+                    "channels": [
+                        {
+                            "values": [
+                                true,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false
+                            ],
+                            "channel": 0
+                        },
+                        {
+                            "values": [
+                                true,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false
+                            ],
+                            "channel": 1
+                        },
+                        {
+                            "values": [
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                true
+                            ],
+                            "channel": 2
+                        }
+                    ],
+                    "joins": []
+                }
+            },
+            {
+                "value": {
+                    "channels": [
+                        {
+                            "values": [
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                true
+                            ],
+                            "channel": 0
+                        },
+                        {
+                            "values": [
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                true
+                            ],
+                            "channel": 1
+                        },
+                        {
+                            "values": [
+                                true,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false
+                            ],
+                            "channel": 2
+                        }
+                    ],
+                    "joins": [
+                        {
+                            "channels": [
+                                {
+                                    "values": [
+                                        true,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "channel": 0
+                                },
+                                {
+                                    "values": [
+                                        true,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "channel": 1
+                                },
+                                {
+                                    "values": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        true
+                                    ],
+                                    "channel": 2
+                                }
+                            ],
+                            "joins": []
+                        }
+                    ]
+                },
+                "x": 60,
+                "y": 100
+            },
+            {
+                "value": {
+                    "channels": [
+                        {
+                            "values": [
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                true
+                            ],
+                            "channel": 0
+                        },
+                        {
+                            "values": [
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                true
+                            ],
+                            "channel": 1
+                        },
+                        {
+                            "values": [
+                                true,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false
+                            ],
+                            "channel": 2
+                        }
+                    ],
+                    "joins": [
+                        {
+                            "channels": [
+                                {
+                                    "values": [
+                                        true,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "channel": 0
+                                },
+                                {
+                                    "values": [
+                                        true,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "channel": 1
+                                },
+                                {
+                                    "values": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        true
+                                    ],
+                                    "channel": 2
+                                }
+                            ],
+                            "joins": []
+                        }
+                    ]
+                },
+                "x": 20,
+                "y": 60
+            },
+            {
+                "value": {
+                    "channels": [
+                        {
+                            "values": [
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                true
+                            ],
+                            "channel": 0
+                        },
+                        {
+                            "values": [
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                true
+                            ],
+                            "channel": 1
+                        },
+                        {
+                            "values": [
+                                true,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false
+                            ],
+                            "channel": 2
+                        }
+                    ],
+                    "joins": [
+                        {
+                            "channels": [
+                                {
+                                    "values": [
+                                        true,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "channel": 0
+                                },
+                                {
+                                    "values": [
+                                        true,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "channel": 1
+                                },
+                                {
+                                    "values": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        true
+                                    ],
+                                    "channel": 2
+                                }
+                            ],
+                            "joins": []
+                        }
+                    ]
+                },
+                "x": 60,
+                "y": 20
+            }
+        ],
+        "expanded": true,
+        "pinhole": true,
+        "chance": [
+            true,
+            false,
+            false,
+            false,
+            false,
+            true
+        ],
+        "hasSymmetry": true,
+        "symmetryCircle": 1
+    },
+    {
+        "width": 80,
+        "height": 80,
+        "x": -60,
+        "y": 450,
+        "rightTriangle": false,
+        "cellAtoms": [],
+        "expanded": false,
+        "pinhole": false
+    }
+]
